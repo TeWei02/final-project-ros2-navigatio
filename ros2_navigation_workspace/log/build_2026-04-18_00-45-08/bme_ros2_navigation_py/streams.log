@@ -1,0 +1,52 @@
+[6.419s] Invoking command in '/Users/kedewei/Desktop/final project/FinalProject_Submission/ros2_navigation_workspace/src/bme_ros2_navigation_py': PYTHONPATH=/Users/kedewei/Desktop/final project/FinalProject_Submission/ros2_navigation_workspace/build/bme_ros2_navigation_py/prefix_override:/Users/kedewei/Library/Python/3.14/lib/python/site-packages/colcon_core/task/python/colcon_distutils_commands:/Users/kedewei/Desktop/final project/FinalProject_Submission/ros2_navigation_workspace/install/bme_ros2_navigation_py/lib/python3.14/site-packages: SHLVL=3 _=/usr/bin/env /opt/homebrew/opt/python@3.14/bin/python3.14 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/bme_ros2_navigation_py build --build-base /Users/kedewei/Desktop/final project/FinalProject_Submission/ros2_navigation_workspace/build/bme_ros2_navigation_py/build install --record /Users/kedewei/Desktop/final project/FinalProject_Submission/ros2_navigation_workspace/build/bme_ros2_navigation_py/install.log --single-version-externally-managed install_data
+[6.516s] /Users/kedewei/Library/Python/3.14/lib/python/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[6.516s]   warnings.warn(msg)
+[6.541s] running egg_info
+[6.544s] creating ../../build/bme_ros2_navigation_py/bme_ros2_navigation_py.egg-info
+[6.544s] writing ../../build/bme_ros2_navigation_py/bme_ros2_navigation_py.egg-info/PKG-INFO
+[6.545s] writing dependency_links to ../../build/bme_ros2_navigation_py/bme_ros2_navigation_py.egg-info/dependency_links.txt
+[6.545s] writing entry points to ../../build/bme_ros2_navigation_py/bme_ros2_navigation_py.egg-info/entry_points.txt
+[6.545s] writing requirements to ../../build/bme_ros2_navigation_py/bme_ros2_navigation_py.egg-info/requires.txt
+[6.545s] writing top-level names to ../../build/bme_ros2_navigation_py/bme_ros2_navigation_py.egg-info/top_level.txt
+[6.545s] writing manifest file '../../build/bme_ros2_navigation_py/bme_ros2_navigation_py.egg-info/SOURCES.txt'
+[6.553s] reading manifest file '../../build/bme_ros2_navigation_py/bme_ros2_navigation_py.egg-info/SOURCES.txt'
+[6.553s] writing manifest file '../../build/bme_ros2_navigation_py/bme_ros2_navigation_py.egg-info/SOURCES.txt'
+[6.553s] running build
+[6.553s] running build_py
+[6.553s] creating /Users/kedewei/Desktop/final project/FinalProject_Submission/ros2_navigation_workspace/build/bme_ros2_navigation_py/build/lib/bme_ros2_navigation_py
+[6.554s] copying bme_ros2_navigation_py/slam_toolbox_load_map.py -> /Users/kedewei/Desktop/final project/FinalProject_Submission/ros2_navigation_workspace/build/bme_ros2_navigation_py/build/lib/bme_ros2_navigation_py
+[9.176s] copying bme_ros2_navigation_py/__init__.py -> /Users/kedewei/Desktop/final project/FinalProject_Submission/ros2_navigation_workspace/build/bme_ros2_navigation_py/build/lib/bme_ros2_navigation_py
+[10.480s] copying bme_ros2_navigation_py/send_initialpose.py -> /Users/kedewei/Desktop/final project/FinalProject_Submission/ros2_navigation_workspace/build/bme_ros2_navigation_py/build/lib/bme_ros2_navigation_py
+[11.907s] copying bme_ros2_navigation_py/vision_navigation.py -> /Users/kedewei/Desktop/final project/FinalProject_Submission/ros2_navigation_workspace/build/bme_ros2_navigation_py/build/lib/bme_ros2_navigation_py
+[13.394s] copying bme_ros2_navigation_py/yolo_detector.py -> /Users/kedewei/Desktop/final project/FinalProject_Submission/ros2_navigation_workspace/build/bme_ros2_navigation_py/build/lib/bme_ros2_navigation_py
+[15.298s] copying bme_ros2_navigation_py/follow_waypoints.py -> /Users/kedewei/Desktop/final project/FinalProject_Submission/ros2_navigation_workspace/build/bme_ros2_navigation_py/build/lib/bme_ros2_navigation_py
+[16.296s] running install
+[16.309s] running install_lib
+[16.321s] creating /opt/homebrew/lib/python3.14/site-packages/bme_ros2_navigation_py
+[16.321s] copying /Users/kedewei/Desktop/final project/FinalProject_Submission/ros2_navigation_workspace/build/bme_ros2_navigation_py/build/lib/bme_ros2_navigation_py/slam_toolbox_load_map.py -> /opt/homebrew/lib/python3.14/site-packages/bme_ros2_navigation_py
+[16.324s] copying /Users/kedewei/Desktop/final project/FinalProject_Submission/ros2_navigation_workspace/build/bme_ros2_navigation_py/build/lib/bme_ros2_navigation_py/__init__.py -> /opt/homebrew/lib/python3.14/site-packages/bme_ros2_navigation_py
+[16.324s] copying /Users/kedewei/Desktop/final project/FinalProject_Submission/ros2_navigation_workspace/build/bme_ros2_navigation_py/build/lib/bme_ros2_navigation_py/send_initialpose.py -> /opt/homebrew/lib/python3.14/site-packages/bme_ros2_navigation_py
+[16.324s] copying /Users/kedewei/Desktop/final project/FinalProject_Submission/ros2_navigation_workspace/build/bme_ros2_navigation_py/build/lib/bme_ros2_navigation_py/vision_navigation.py -> /opt/homebrew/lib/python3.14/site-packages/bme_ros2_navigation_py
+[16.324s] copying /Users/kedewei/Desktop/final project/FinalProject_Submission/ros2_navigation_workspace/build/bme_ros2_navigation_py/build/lib/bme_ros2_navigation_py/yolo_detector.py -> /opt/homebrew/lib/python3.14/site-packages/bme_ros2_navigation_py
+[16.325s] copying /Users/kedewei/Desktop/final project/FinalProject_Submission/ros2_navigation_workspace/build/bme_ros2_navigation_py/build/lib/bme_ros2_navigation_py/follow_waypoints.py -> /opt/homebrew/lib/python3.14/site-packages/bme_ros2_navigation_py
+[16.325s] byte-compiling /opt/homebrew/lib/python3.14/site-packages/bme_ros2_navigation_py/slam_toolbox_load_map.py to slam_toolbox_load_map.cpython-314.pyc
+[16.327s] byte-compiling /opt/homebrew/lib/python3.14/site-packages/bme_ros2_navigation_py/__init__.py to __init__.cpython-314.pyc
+[16.327s] byte-compiling /opt/homebrew/lib/python3.14/site-packages/bme_ros2_navigation_py/send_initialpose.py to send_initialpose.cpython-314.pyc
+[16.328s] byte-compiling /opt/homebrew/lib/python3.14/site-packages/bme_ros2_navigation_py/vision_navigation.py to vision_navigation.cpython-314.pyc
+[16.329s] byte-compiling /opt/homebrew/lib/python3.14/site-packages/bme_ros2_navigation_py/yolo_detector.py to yolo_detector.cpython-314.pyc
+[16.329s] byte-compiling /opt/homebrew/lib/python3.14/site-packages/bme_ros2_navigation_py/follow_waypoints.py to follow_waypoints.cpython-314.pyc
+[16.330s] running install_data
+[16.330s] creating /opt/homebrew/share/ament_index/resource_index/packages
+[16.331s] copying resource/bme_ros2_navigation_py -> /opt/homebrew/share/ament_index/resource_index/packages
+[17.305s] creating /opt/homebrew/share/bme_ros2_navigation_py
+[17.306s] copying package.xml -> /opt/homebrew/share/bme_ros2_navigation_py
+[17.307s] running install_egg_info
+[17.324s] Copying ../../build/bme_ros2_navigation_py/bme_ros2_navigation_py.egg-info to /opt/homebrew/lib/python3.14/site-packages/bme_ros2_navigation_py-1.0.0-py3.14.egg-info
+[17.328s] running install_scripts
+[17.364s] Installing follow_waypoints script to /opt/homebrew/Cellar/python@3.14/3.14.3_1/Frameworks/Python.framework/Versions/3.14/lib/bme_ros2_navigation_py
+[17.365s] Installing send_initialpose script to /opt/homebrew/Cellar/python@3.14/3.14.3_1/Frameworks/Python.framework/Versions/3.14/lib/bme_ros2_navigation_py
+[17.365s] Installing slam_toolbox_load_map script to /opt/homebrew/Cellar/python@3.14/3.14.3_1/Frameworks/Python.framework/Versions/3.14/lib/bme_ros2_navigation_py
+[17.365s] Installing vision_navigation script to /opt/homebrew/Cellar/python@3.14/3.14.3_1/Frameworks/Python.framework/Versions/3.14/lib/bme_ros2_navigation_py
+[17.365s] Installing yolo_detector script to /opt/homebrew/Cellar/python@3.14/3.14.3_1/Frameworks/Python.framework/Versions/3.14/lib/bme_ros2_navigation_py
+[17.365s] writing list of installed files to '/Users/kedewei/Desktop/final project/FinalProject_Submission/ros2_navigation_workspace/build/bme_ros2_navigation_py/install.log'
+[17.382s] Invoked command in '/Users/kedewei/Desktop/final project/FinalProject_Submission/ros2_navigation_workspace/src/bme_ros2_navigation_py' returned '0': PYTHONPATH=/Users/kedewei/Desktop/final project/FinalProject_Submission/ros2_navigation_workspace/build/bme_ros2_navigation_py/prefix_override:/Users/kedewei/Library/Python/3.14/lib/python/site-packages/colcon_core/task/python/colcon_distutils_commands:/Users/kedewei/Desktop/final project/FinalProject_Submission/ros2_navigation_workspace/install/bme_ros2_navigation_py/lib/python3.14/site-packages: SHLVL=3 _=/usr/bin/env /opt/homebrew/opt/python@3.14/bin/python3.14 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/bme_ros2_navigation_py build --build-base /Users/kedewei/Desktop/final project/FinalProject_Submission/ros2_navigation_workspace/build/bme_ros2_navigation_py/build install --record /Users/kedewei/Desktop/final project/FinalProject_Submission/ros2_navigation_workspace/build/bme_ros2_navigation_py/install.log --single-version-externally-managed install_data

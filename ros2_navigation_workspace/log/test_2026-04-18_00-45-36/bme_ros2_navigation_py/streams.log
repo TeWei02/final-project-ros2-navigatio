@@ -1,0 +1,7 @@
+[0.134s] Invoking command in '/Users/kedewei/Desktop/final project/FinalProject_Submission/ros2_navigation_workspace/src/bme_ros2_navigation_py': AMENT_PREFIX_PATH=/Users/kedewei/Desktop/final project/FinalProject_Submission/ros2_navigation_workspace/install/bme_ros2_navigation_py PYTHONDONTWRITEBYTECODE=1 PYTHONPATH=/Users/kedewei/Desktop/final project/FinalProject_Submission/ros2_navigation_workspace/install/bme_ros2_navigation_py/lib/python3.14/site-packages SHLVL=3 _=/usr/bin/env /opt/homebrew/opt/python@3.14/bin/python3.14 -m unittest -v
+[2.846s] 
+[2.846s] ----------------------------------------------------------------------
+[2.847s] Ran 0 tests in 0.000s
+[2.847s] 
+[2.847s] NO TESTS RAN
+[2.868s] Invoked command in '/Users/kedewei/Desktop/final project/FinalProject_Submission/ros2_navigation_workspace/src/bme_ros2_navigation_py' returned '5': AMENT_PREFIX_PATH=/Users/kedewei/Desktop/final project/FinalProject_Submission/ros2_navigation_workspace/install/bme_ros2_navigation_py PYTHONDONTWRITEBYTECODE=1 PYTHONPATH=/Users/kedewei/Desktop/final project/FinalProject_Submission/ros2_navigation_workspace/install/bme_ros2_navigation_py/lib/python3.14/site-packages SHLVL=3 _=/usr/bin/env /opt/homebrew/opt/python@3.14/bin/python3.14 -m unittest -v

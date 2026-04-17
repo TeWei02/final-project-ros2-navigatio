@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: bme_ros2_navigation_py
+Version: 1.0.0
+Summary: Python nodes for slam, localization and navigation with Gazebo Harmonic and ROS Jazzy for BME MOGI ROS2 course
+Maintainer: David Dudas
+Maintainer-email: david.dudas@outlook.com
+License: Apache License 2.0
+Requires-Dist: setuptools
+Requires-Dist: transforms3d
+Dynamic: license
+Dynamic: maintainer
+Dynamic: maintainer-email
+Dynamic: requires-dist
+Dynamic: summary

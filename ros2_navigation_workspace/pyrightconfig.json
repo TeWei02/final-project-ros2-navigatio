@@ -1,0 +1,18 @@
+{
+    "exclude": [
+        "**/build/**",
+        "**/install/**",
+        "**/log/**",
+        "**/.git/**",
+        "**/__pycache__/**"
+    ],
+    "typeCheckingMode": "basic",
+    "reportMissingImports": "none",
+    "reportUnknownVariableType": "none",
+    "reportUnknownMemberType": "none",
+    "reportUnknownArgumentType": "none",
+    "reportUnknownParameterType": "none",
+    "reportMissingParameterType": "none",
+    "reportUntypedBaseClass": "none",
+    "reportAttributeAccessIssue": "none"
+}
