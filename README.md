@@ -6,7 +6,7 @@
 [![YOLO](https://img.shields.io/badge/YOLO-Object%20Detection-%2300FFFF)](https://github.com/ultralytics/ultralytics)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-NTHU RNE 2024 Final Project: autonomous robotic navigation with visual target detection and autonomous recovery.
+TAICA AI Satellite Course Final Project: autonomous robotic navigation with visual target detection and autonomous recovery.
 
 ## Architecture
 
